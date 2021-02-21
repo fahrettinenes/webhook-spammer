@@ -1,0 +1,10 @@
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\bin\Debug\WebhookSpammer.exe.config
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\bin\Debug\WebhookSpammer.exe
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\bin\Debug\WebhookSpammer.pdb
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.csprojAssemblyReference.cache
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.Properties.Resources.resources
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.TR.resources
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.csproj.GenerateResource.cache
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.csproj.CoreCompileInputs.cache
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.exe
+C:\Users\Strazen\source\repos\WebhookSpammer\WebhookSpammer\obj\Debug\WebhookSpammer.pdb
